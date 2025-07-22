@@ -1,5 +1,0 @@
-discord.py
-fastapi
-uvicorn
-aiohttp
-bs4
